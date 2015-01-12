@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-05T21:47:06.594Z</updated>
+  <updated>2015-01-12T22:21:42.056Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Academy]]></title>
+    <link href="http://yoursite.com/2015/01/12/Academy/"/>
+    <id>http://yoursite.com/2015/01/12/Academy/</id>
+    <published>2015-01-12T22:14:36.000Z</published>
+    <updated>2015-01-12T22:14:36.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Finished My hexo mailer project]]></title>
