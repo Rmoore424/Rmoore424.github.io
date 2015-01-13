@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-01-13T02:06:49.924Z</updated>
+  <updated>2015-01-13T02:15:03.945Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,31 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Academy]]></title>
+    <title><![CDATA[First Day at Fullstack Academy]]></title>
     <link href="http://yoursite.com/2015/01/12/Academy/"/>
     <id>http://yoursite.com/2015/01/12/Academy/</id>
     <published>2015-01-12T22:14:36.000Z</published>
-    <updated>2015-01-12T22:14:36.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
+    <updated>2015-01-13T02:14:59.000Z</updated>
+    <content type="html"><![CDATA[<p>Today was my first day at Fullstack Academy.  We spent a majority of the day getting to know the staff, teaching fellows and other students.  It was a nice way to ease us into a new environment.  </p>
+<p>We also reviewed 3 problems from the Test First Javascript that we did during the Fullstack Foundations portion of the class.  I definitely learned some new techniques I had not thought of before. I also felt a bit more confident in myself as a coder, since some of my answers were written exactly as Nimit demonstrated.</p>
+<p>I’m looking forward to reviewing the rest of the Test First Problems and learning more about Javascript. </p>
+]]></content>
     <summary type="html">
-    <![CDATA[]]>
+    <![CDATA[<p>Today was my first day at Fullstack Academy.  We spent a majority of the day getting to know the staff, teaching fellows and other studen]]>
     </summary>
     
   </entry>
   
   <entry>
-    <title><![CDATA[Finished My hexo mailer project]]></title>
+    <title><![CDATA[Finished my hexo mailer project]]></title>
     <link href="http://yoursite.com/2015/01/05/Finished-My-hexo-mailer-project/"/>
     <id>http://yoursite.com/2015/01/05/Finished-My-hexo-mailer-project/</id>
     <published>2015-01-05T21:46:53.000Z</published>
-    <updated>2015-01-05T21:46:53.000Z</updated>
-    <content type="html"><![CDATA[]]></content>
+    <updated>2015-01-13T02:09:17.000Z</updated>
+    <content type="html"><![CDATA[<p>Today I finished my hexo mailer project for Fullstack Academy.  I sent out a few emails (sent one to myself to make sure it worked!) and it seems like it works.</p>
+]]></content>
     <summary type="html">
-    <![CDATA[]]>
+    <![CDATA[<p>Today I finished my hexo mailer project for Fullstack Academy.  I sent out a few emails (sent one to myself to make sure it worked!) and ]]>
     </summary>
     
   </entry>
